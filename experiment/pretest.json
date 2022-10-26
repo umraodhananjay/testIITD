@@ -1,0 +1,51 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Permanent hardness caused due to the presence of salt of",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Bicarbonate",                  ///// Write the option 1 inside double quotes
+        "b": "Chlorides",                  ///// Write the option 2 inside double quotes
+        "c": "Iodides",                  ///// Write the option 3 inside double quotes
+        "d": "Fluorides"                   ///// Write the option 4 inside double quotes
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "2. The acceptable hardness range of drinking water is",
+      "answers": {
+        "a": "50-100 mg/l",                  ///// Write the option 1 inside double quotes
+        "b": "100-200 mg/l",                  ///// Write the option 2 inside double quotes
+        "c": "400-500 mg/l",                  ///// Write the option 3 inside double quotes
+        "d": "600-700 mg/l"                   ///// Write the option 4 inside double quotes
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "Hard water is not suitable for",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Cooking",                  ///// Write the option 1 inside double quotes
+        "b": "Drinking",                  ///// Write the option 2 inside double quotes
+        "c": "Washing",                  ///// Write the option 3 inside double quotes
+        "d": "All of the above"                   ///// Write the option 4 inside double quotes
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "EDTA method of determining hardness of water can be used to determine",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Total hardness",                  ///// Write the option 1 inside double quotes
+        "b": "Temporary hardness only",                  ///// Write the option 2 inside double quotes
+        "c": "Permanent hardness only",                  ///// Write the option 3 inside double quotes
+        "d": "All of the above"                   ///// Write the option 4 inside double quotes
+      },
+      
+      "correctAnswer": "a"
+      
+    }
+  ]
+}
